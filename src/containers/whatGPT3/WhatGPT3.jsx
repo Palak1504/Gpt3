@@ -12,7 +12,7 @@ const WhatGPT3 = () => (
       <p>Explore the Library</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="elit ut aliquam purus sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor" />
+      <Feature title="Chatbots" text="elit ut aliquam purus sit amet luctus venenatis lectus magna fringilla urna porttitor rhoncus." />
       <Feature title="Knowledgebase" text="nec feugiat nisl pretium fusce id velit ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus sed" />
       <Feature title="Education" text="nec feugiat nisl pretium fusce id velit ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus sed" />
     </div>
