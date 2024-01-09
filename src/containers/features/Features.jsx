@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'ipsum dolor sit amet consectetur',
-    text: 'nisl vel pretium lectus quam id leo in vitae turpis massa sed elementum tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse in est ante in nibh mauris cursus.',
+    title: 'Improving end distrusts instantly',
+    text: 'nec feugiat nisl pretium fusce id velit ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus sed',
   },
   {
-    title: 'ipsum dolor sit amet consectetur',
-    text: 'nisl vel pretium lectus quam id leo in vitae turpis massa sed elementum tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse in est ante in nibh mauris cursus',
+    title: 'Become the tended active',
+    text: 'volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in dictum non consectetur a erat nam at lectus urna duis',
   },
   {
-    title: 'ipsum dolor sit amet consectetur',
-    text: 'nisl vel pretium lectus quam id leo in vitae turpis massa sed elementum tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse in est ante in nibh mauris cursus',
+    title: 'Message or am nothing',
+    text: 'volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in dictum non consectetur a erat nam at lectus urna duis',
   },
   {
-    title: 'ipsum dolor sit amet consectetur',
-    text: 'nisl vel pretium lectus quam id leo in vitae turpis massa sed elementum tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse in est ante in nibh mauris cursus',
+    title: 'Really boy law county',
+    text: 'volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in dictum non consectetur a erat nam at lectus urna duis',
   },
 ];
 
