@@ -28,9 +28,9 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Piyush Upadhyay</p>
-        <p>+91-9123456789</p>
-        <p>piyushupadhyay37756@gmail.com</p>
+        <p>Palak Patidar</p>
+        <p>+91-9131667422</p>
+        <p>palakpatidar1504@gmail.com</p>
       </div>
     </div>
 
